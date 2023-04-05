@@ -17,7 +17,7 @@ To complete these tasks, you will use the program `john the ripper` on the passw
 3. Run `sudo john shadow_copy`
      - **Note**: This command is all you need to crack passwords.
 
-4. This will take some time, but let John the Ripper run, and take note of any passwords you find.  If you find that it is taking too long, remember that there is an option to use a predefined wordlist with `john`
+4. This will take some time, but let John the Ripper run, and take note of any passwords you find.
 
 —--
 
