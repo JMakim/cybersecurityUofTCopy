@@ -57,4 +57,4 @@ For this exercise, we used conditionals in a PowerShell script to uninstall vari
 When we successfully create and execute the script, PowerShell will start uninstalling the packages within the CSV file. This will take a few minutes to complete.
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

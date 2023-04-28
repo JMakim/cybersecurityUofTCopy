@@ -77,4 +77,4 @@ In this activity, you were tasked with setting up multiple directories for the W
     - `Rename-Item contracts1 Contracts`
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
