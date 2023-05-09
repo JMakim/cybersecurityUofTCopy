@@ -12,7 +12,7 @@ In this activity, you will continue to play the role of a security analyst at Ac
    
    2. Determine where in their transmission (at which hop) the transmission failed.
      
-   3. Document a summary of your findings to be provided to CompuCom using a [Traceroute Mapper tool](https://stefansundin.github.io/traceroute-mapper/) to convey the path of the traffic.
+   3. Document a summary of your findings to be provided to CompuCorp using a [Traceroute Mapper tool](https://stefansundin.github.io/traceroute-mapper/) to convey the path of the traffic.
    
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.

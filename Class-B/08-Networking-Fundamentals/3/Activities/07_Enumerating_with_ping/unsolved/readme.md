@@ -25,6 +25,6 @@
 
 1. Use `fping` to ping the range of IPs, from `107.191.96.26 ` to `107.191.96.32`.
      
-2. Write a short summary of your findings to provide to CompuCom.
+2. Write a short summary of your findings to provide to CompuCorp.
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
