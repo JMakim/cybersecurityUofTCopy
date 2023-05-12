@@ -21,4 +21,4 @@ Open the network diagrams provided.
   - **Note**: In the diagram, the number between devices is the time it takes the data to travel from one device to the next.
 
   ---
-  © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
