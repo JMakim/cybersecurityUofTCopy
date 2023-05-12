@@ -185,4 +185,4 @@ Answer the following questions.
 9. What is the range of IP addresses in: `192.18.65.0/24`? 
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.

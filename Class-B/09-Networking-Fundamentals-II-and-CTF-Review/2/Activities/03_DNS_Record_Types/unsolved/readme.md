@@ -31,4 +31,4 @@ In this activity, you will play the role of a security analyst at Acme Corp.
 - Look up the SPF record for nmap.org and explain what it indicates.
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
