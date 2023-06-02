@@ -109,4 +109,4 @@ Review the partially reconstructed HTTP requests and responses. Answer the quest
    - **Analysis:** Is there anything interesting about the URL requested?
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. 
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 

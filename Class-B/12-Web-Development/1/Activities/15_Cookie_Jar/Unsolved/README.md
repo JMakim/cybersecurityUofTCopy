@@ -92,4 +92,4 @@ Note that each one of these is a cookie that was granted to Ryan after logging i
 
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.  
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
