@@ -51,4 +51,4 @@ After constructing and testing each `curl` command, answer the questions that fo
     - Where does the request body data end up?
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. 
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 

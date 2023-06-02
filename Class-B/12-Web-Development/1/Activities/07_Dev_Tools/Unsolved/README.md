@@ -39,4 +39,4 @@ Before you get started with this activity, you'll need to make sure you have Goo
         - Are there any notable security response headers that we've discussed? If so, what do they mean? 
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved. 
+© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved. 
