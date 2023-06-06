@@ -48,5 +48,5 @@ Your Customer Service department has been receiving complaints that the company'
 **Note:** Remember to show the basic information flows between the microservices.
 
 ---
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
