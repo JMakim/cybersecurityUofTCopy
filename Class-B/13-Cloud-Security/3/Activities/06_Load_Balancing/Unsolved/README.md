@@ -8,7 +8,6 @@
 
 - You must install a load balancer in front of the VM to distribute the traffic across more than one VM.
 
-
 ### Instructions
 
 Create a new load balancer in your red team resource group and give it a name. 
@@ -17,7 +16,7 @@ Create a new load balancer in your red team resource group and give it a name.
 
 	- Give the IP address a unique address name as it will be used to create a URL that maps to the IP address of the load balancer.
 	
-	- Create a new Public IP Address
+	- Create a new Public IP Address.
 
 - Add a backend pool.
 	
@@ -26,4 +25,5 @@ Create a new load balancer in your red team resource group and give it a name.
 **Note:** Do not add any inbound or outbound rules.
 
 ---
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
