@@ -12,7 +12,7 @@
 
 2. Create a YAML playbook file that you will use for your configuration. 
 
-    - Use the Ansible `apt` module to install `docker.io` and `python3-pip`.
+    - Use the Ansible `builtin.apt` module to install `docker.io` and `python3-pip`.
 
     - Use the Ansible `pip` module to install `docker`.
 
@@ -27,7 +27,9 @@
 3. Run your Ansible playbook on the new virtual machine. 
 
 4. To test that DVWA is running on the new VM, SSH to the new VM from your Ansible container.
-    - Run `curl localhost/setup.php` to test the connection. If everything is working, you should get back some HTML from the DVWA container.
+
+    - Run: `curl localhost/setup.php` to test the connection. If everything is working, you should get back some HTML from the DVWA container.
 
 ---
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
